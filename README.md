@@ -33,3 +33,5 @@ Ensure best practices for collaboration.
 
 - Use consistent port numbers during project presentations.
 - Follow established file structure practices, like "src" for source files.
+
+  # Story
